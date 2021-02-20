@@ -21,10 +21,12 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Copyright 2021 Thi Ny Tran
+
 References 
 ========================
 
-1. Yellow-ish Paper Image for Part 1
+1. Coffee Paper Image for Part 1
     * Link: https://www.freepik.com/premium-photo/old-paper-texture-background_6773643.htm#page=1&query=old%20paper&position=11
     * Date Accessed: Feb.19.2021
     * Photo from User: daboost
@@ -64,14 +66,22 @@ References
     * Date Accessed: Feb.19.2021
     * Answer from user: Michael Mior
 
+10. Background for good css homepage
+    * Link: https://www.xmple.com/wallpaper/blue-gradient-white-linear--c2-87cefa-ffffff-a-270-f-14-image/
+    * Date Accessed: Feb.20.2021
+
+11. Background for bad css homepage 
+    * Link: http://www.pngall.com/nemo-png/download/37852
+    * Date Accessed: Feb.20.2021
+
+12. Understanding how text-shawdow works in CSS
+    * Link: https://www.w3schools.com/cssref/css3_pr_text-shadow.asp
+    * Date Accessed: Feb.20.2021
+
 
 HTML Modifications 
 ========================
 
 * Included my own custom CSS
 * Images now referenced to my own folders 
-
-
-Collaboration 
-========================
 
