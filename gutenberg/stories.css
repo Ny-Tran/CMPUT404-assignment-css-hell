@@ -1,0 +1,66 @@
+body {
+    background-image: url("yellow_paper.jpg");
+    background-size: contain;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color:rgb(59, 58, 61);
+    text-align: center;
+    font-weight:bold;
+}
+
+.title {
+    color:rgb(59, 58, 61);
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+p {
+    font-style: italic;
+    color:rgb(95, 93, 93);
+    font-size: 1.1em;
+    line-height: 1.5em;
+    margin-bottom: 1.25em;
+}
+
+pre {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    border-style: double;
+    border-color:rgb(150, 137, 122);
+    border-width: 1em;
+    max-width: 30%;
+
+}
+
+img[alt="cover"] {
+    max-width: 100%;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contents {
+    text-align: center;
+}
+
+p.asterism, p.poem {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figcaption {
+    text-align: center;
+    font-style: italic;
+
+}
